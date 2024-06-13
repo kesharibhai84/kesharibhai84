@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning backend system.
 - 💞️ I’m looking to collaborate in open source projects.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
 
 <!---
