@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Vishal Keshari  
 
-🔭 **Junior in Computer Science & Engineering**  
-🎓 **PDPM IIITDM Jabalpur**  
+🔭 **Final Year B.Tech Student in Computer Science & Engineering**  
+🎓 **PDPM IIITDM Jabalpur** 
 
 I am a passionate **Full-Stack Web Developer** with a keen interest in **Backend Development**, **Cloud Technologies**, and **Open Source Contributions**. I enjoy solving challenging problems, building impactful projects, and constantly exploring new technologies.  
 
