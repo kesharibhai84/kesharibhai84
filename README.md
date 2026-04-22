@@ -22,8 +22,6 @@ I am a passionate **Full-Stack Web Developer** with a keen interest in **Backend
 ---
 
 ## 🚀 Looking For
-- **SDE Internships**  
-- Open-source collaboration opportunities  
 - Challenging real-world projects  
 
 ---
@@ -37,7 +35,7 @@ I am a passionate **Full-Stack Web Developer** with a keen interest in **Backend
 
 ## 🛠️ Tech Stack
 ```bash
-Languages: C, C++, Python, JavaScript, SQL  
+Languages: C, C++, Python, JavaScript, SQL ,Go 
 Frameworks: React.js, Node.js, Express.js, Django, TailwindCSS  
 Tools & Platforms: Git, Docker, MongoDB Atlas, Mailtrap, AWS  
 Concepts: REST APIs, JWT Auth, Socket.io, OOPs, Cloud Integration
