@@ -1,41 +1,29 @@
-# Hi there! 👋 I'm Vishal Keshari  
+# Hi there! 👋 I'm Vishal Keshari 
 
-🔭 **Final Year B.Tech Student in Computer Science & Engineering**  
-🎓 **PDPM IIITDM Jabalpur**  
+🚀 **Software Engineer at Rimo LLC (Tokyo, Japan) | CSE Graduate from PDPM IIITDM Jabalpur | Sketch Artist (@sketc_holic24)**
 
-I am a passionate **Full-Stack Web Developer** with a keen interest in **Backend Development**, **Cloud Technologies**, and **Open Source Contributions**. I enjoy solving challenging problems, building impactful projects, and constantly exploring new technologies.  
-
----
-
-## 💡 What Drives Me
-- Problem-solving and finding innovative solutions  
-- Collaborating on open-source projects  
-- Building real-world applications that make a difference  
+I am a Full-Stack Web Developer and Software Engineer focused on building distributed data systems, deploying optimized tools, and scaling production-grade web applications. I bridge the gap between deep logical programming and visual creativity.
 
 ---
 
-## 🌱 Currently Learning
-- Advanced backend and cloud services  
-- Exploring open-source contribution opportunities  
-- Staying updated with cutting-edge technologies in software development  
+### 💼 Professional Snapshot
+- 💻 **Software Engineer** at Rimo LLC (Tokyo, Japan) — Crafting high-quality, production-ready tech solutions.
+- 🎓 **B.Tech in Computer Science & Engineering** — Alumnus of PDPM IIITDM Jabalpur.
+- 🎨 **Sketch Artist & Illustrator** — Creator behind @sketc_holic24, blending fine art precision with tech architecture.
+
+### 🛠 Tech Stack
+- **Languages:** C, C++, Python, JavaScript (ES6+), Go, SQL
+- **Frameworks & Libs:** React.js, Node.js, Express.js, Django, TailwindCSS
+- **Tools & Core Concepts:** Git, Docker, AWS, REST APIs, JWT Auth, Distributed Systems, Socket.io
+
+### 📁 Featured Repositories
+- 🛒 **ShopSphere:** A production-grade, feature-rich full-stack E-commerce platform.
+- 📦 **Distributed-Data-Store:** A custom partition/replication data hub built in Python.
+- 📝 **Text-Summarizer:** An intelligent, performance-optimized utility tool.
 
 ---
 
-## 🚀 Looking For
-- Challenging real-world projects  
-
----
-
-## 📫 How to Reach Me
-- **Email**: [vishalkeshari2004@gmail.com](mailto:vishalkeshari2004@gmail.com)  
-- **LinkedIn**: [vishal-keshari](https://www.linkedin.com/in/vishal-keshari-024271265/)  
-- **GitHub**: [kesharibhai84](https://github.com/kesharibhai84)  
-
----
-
-## 🛠️ Tech Stack
-```bash
-Languages: C, C++, Python, JavaScript, SQL ,Go 
-Frameworks: React.js, Node.js, Express.js, Django, TailwindCSS  
-Tools & Platforms: Git, Docker, MongoDB Atlas, Mailtrap, AWS  
-Concepts: REST APIs, JWT Auth, Socket.io, OOPs, Cloud Integration
+### 📫 Let's Connect!
+- **LinkedIn:** [vishal-keshari](https://www.linkedin.com/in/vishal-keshari-024271265/)
+- **Art Portfolio:** [@sketc_holic24 on Instagram](https://www.instagram.com/sketc_holic24/)
+- **Email:** vishalkeshari2004@gmail.com
